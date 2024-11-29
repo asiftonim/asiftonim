@@ -1,30 +1,33 @@
-### Hi there 👋, my name is Asif Tonim
-#### I am App Devoloper
-![I am App Devoloper](https://www.expertappdevs.com/sitebucket/blog/20220810130346-mobile-app-development-process.jpg)
+<h1 align="center">Hi 👋, I'm Asif Tonim</h1>
+<h3 align="center">A passionate frontend App developer from Bangladesh</h3>
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asiftonim&label=Profile%20views&color=0e75b6&style=flat" alt="asiftonim" /> </p>
 
-Skills: Flutter/Dart
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asiftonim" alt="asiftonim" /></a> </p>
 
-- 🔭 I’m currently working on Flutter 
-- 🌱 I’m currently learning Dart 
-- 📫 How to reach me: asiftonim1000@gmail.com 
-- ⚡ Fun fact: I think i am so funny.. 
+<p align="left"> <a href="https://twitter.com/https://x.com/asiftonim?t=seqipqfdpsypkc5ukcheba&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/asiftonim?t=seqipqfdpsypkc5ukcheba&s=08?logo=twitter&style=for-the-badge" alt="https://x.com/asiftonim?t=seqipqfdpsypkc5ukcheba&s=08" /></a> </p>
 
+- 🔭 I’m currently working on **flutter**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asiftonim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/asif-tonim-41114633b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/asif.tonim?mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/asiftonim/profilecard/?igsh=MWh4amw5ejJqY2c4Ng==/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/AsifTonim?t=SeQIpqfDpsYPkc5ukChEBA&s=08)  
+- 🌱 I’m currently learning **Dart**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 💬 Ask me about **flutter**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=asiftonim)](https://github.com/ryo-ma/github-profile-trophy)
+- 📫 How to reach me **asiftonim1000@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asiftonim)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://x.com/asiftonim?t=seqipqfdpsypkc5ukcheba&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/asiftonim?t=seqipqfdpsypkc5ukcheba&s=08" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/asif-tonim-41114633b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asif-tonim-41114633b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/asif.tonim?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/asif.tonim?mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/asiftonim/profilecard/?igsh=mwh4amw5ejjqy2c4ng==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/asiftonim/profilecard/?igsh=mwh4amw5ejjqy2c4ng==" height="30" width="40" /></a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asiftonim&show_icons=true&count_private=true)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/asiftonim/contributions?format=svg&private=true)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asiftonim&show_icons=true&locale=en&layout=compact" alt="asiftonim" /></p>
 
-![GitHub metrics](https://metrics.lecoq.io/asiftonim)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asiftonim&show_icons=true&locale=en" alt="asiftonim" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=asiftonim)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asiftonim&" alt="asiftonim" /></p>
