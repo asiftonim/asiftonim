@@ -12,7 +12,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asiftonim" alt="asiftonim" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/asiftonim?t=seqipqfdpsypkc5ukcheba&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/asiftonim?t=seqipqfdpsypkc5ukcheba&s=08?logo=twitter&style=for-the-badge" alt="https://x.com/asiftonim?t=seqipqfdpsypkc5ukcheba&s=08" /></a> </p>
 
 - 🔭 I’m currently working on **flutter**
 
