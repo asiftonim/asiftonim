@@ -4,9 +4,8 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-<p align="left"> <img src=https://img.freepik.com/premium-photo/cartoon-3d-character-developer-designer-working-laptop-web-app-development-deploy-frontend_1108314-82319.jpg
-<p align="left"> <img src= https://lh3.googleusercontent.com/proxy/nJaCaa51XYJ76uiyEpv0tEt0r7JMazkZkc_AyfZM0OyUbX5-I7y3kx48wYl8A4MSy9706cHlWgJG7vAToTxE1VX4jZD3-nGyGUC_Yz6r5xOg_RCSmcMqn4gjlArzl0xA1dyA3Nj0mL7_EiwKEbuMPjJZCTnthe6tGdhXZSub055hopqUTM6n0QZiUQ6PfVUHTCWRbC06mtLLSkpHh5KoWw
-<p align="right"> <img src=https://mir-s3-cdn-cf.behance.net/projects/404/ae2586212157253.Y3JvcCwxNTM0LDEyMDAsMzQsMA.jpg                   
+
+<p align="left"> <img src=  https://img.freepik.com/premium-photo/3d-cartoon-character-developer-working-laptop-web-app-development-frontend-deployment_1298309-24516.jpg?w=1380             
 <p align="left"> <img src=    https://strapi.dhiwise.com/uploads/Optimizing_Animation_Delay_Performance_with_Animated_Container_in_Flutter_for_Mobile_Devices_OG_Image_d553fc1487.jpg               
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asiftonim&label=Profile%20views&color=0e75b6&style=flat" alt="asiftonim" /> </p>
 
