@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Asif Tonim
-#### A passionate frontend App devoloper from Bangladesh
+#### A passionate Mobaile App devoloper from Bangladesh
 ![I am GitHub Readme Generator's creator](https://www.expertappdevs.com/sitebucket/blog/20220810130346-mobile-app-development-process.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
